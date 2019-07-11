@@ -1,0 +1,64 @@
+[
+	{
+		"id": "0",
+		"title": "Graphs - 0"
+	},
+	{
+		"id": "1",
+		"title": "Information - 1",
+		"subTabs": [
+			{
+				"id": "1:0",
+				"title": "General - 1:0",
+				"subTabs": [
+					{
+						"id": "1:0:0",
+						"title": "Sub General 1 - 1:0:0"
+					},
+					{
+						"id": "1:0:1",
+						"title": "Sub General 2 - 1:0:1"
+					}
+				]
+			},
+			{
+				"id": "1:1",
+				"title": "More - 1:1",
+				"subTabs": [
+					{
+						"id": "1:1:0",
+						"title": "Sub More 1 - 1:1:0"
+					},
+					{
+						"id": "1:1:1",
+						"title": "Sub More 2 - 1:1:1",
+						"subTabs": [
+							{
+								"id": "1:1:1:0",
+								"title": "Sub More 2.1 - 1:1:1:0"
+							},
+							{
+								"id": "1:1:1:1",
+								"title": "Sub More 2.2 - 1:1:1:1"
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "1:2",
+				"title": "Extra - 1:2",
+				"subTabs": [
+					{
+						"id": "1:2:0",
+						"title": "Sub Extra 1 - 1:2:0"
+					},
+					{
+						"id": "1:2:1",
+						"title": "Sub Extra 2 - 1:2:1"
+					}
+				]
+			}
+		]
+	}
+]
